@@ -2,3 +2,8 @@ boto3
 pymysql
 PyMySQL
 psycopg2
+kaggle
+numpy
+pandas
+matplotlib
+seaborn
